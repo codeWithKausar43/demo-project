@@ -6,7 +6,7 @@ function Tusted() {
                 <p>FocalPont</p>
                 <p>Comment+R</p>
                 <p>GlobalBank</p>
-                <p>Alt+shipt</p>
+                <p>Alt+shipt</p><p>Alt+shipt</p>
                 <p>Lominius</p>
                 
             </div>
